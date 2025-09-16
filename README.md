@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🎨 Hey there, I'm Angela! 
 
-<!--
-**angelaguilherme-Lo/angelaguilherme-Lo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Web+Designer+%7C+Brand+Strategist;Entrepreneur+%7C+Developer;Building+Digital+Experiences+%26+Brands" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+**Beginner Dev & Brand Enthusiast** passionate about crafting digital experiences that tell compelling stories. I'm on a journey to merge **beautiful design**, **strategic branding**, and **sustainability** with a entrepreneurship business ventures that make an impact.
+
+- 🎯 **Currently focusing on:** Personal brand development & entrepreneurial ventures
+- 🎨 **Design philosophy:** Form meets function with purpose-driven aesthetics
+- 💡 **Entrepreneurship mindset:** Building solutions that solve real problems
+- 🌱 **Always learning:** Latest design trends, dev frameworks, and business strategies
+- ⚡ **Fun fact:** I believe every passion has a purpose and every brand has a story
+
+---
+
+## 🛠️ Tech Stack & Design Tools
