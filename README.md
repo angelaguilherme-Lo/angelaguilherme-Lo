@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-**Beginner Dev & Brand Enthusiast** passionate about crafting digital experiences that tell compelling stories. I'm on a journey to merge **beautiful design**, **strategic branding**, and **sustainability** with a entrepreneurship business ventures that make an impact.
+**Beginner Dev & Brand Enthusiast** passionate about crafting real life products using digital tools. I'm on a journey to merge **beautiful design**, **strategic branding**, and **sustainability** with a entrepreneurship business venture that make an impact.
 
-- 🎯 **Currently focusing on:** Personal brand development & entrepreneurial ventures
+- 🎯 **Currently focusing on:** Personal brand development & archive master coding skills
 - 🎨 **Design philosophy:** Form meets function with purpose-driven aesthetics
 - 💡 **Entrepreneurship mindset:** Building solutions that solve real problems
 - 🌱 **Always learning:** Latest design trends, dev frameworks, and business strategies
