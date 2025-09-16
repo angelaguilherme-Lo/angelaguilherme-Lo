@@ -18,4 +18,4 @@
 
 ---
 
-## 🛠️ Tech Stack & Design Tools
+## Have a nice day!
