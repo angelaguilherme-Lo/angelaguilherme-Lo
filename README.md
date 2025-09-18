@@ -19,3 +19,8 @@
 ---
 
 ## Have a nice day!
+
+body {
+  background-color: #F5F5F7; /* change to one of the codes above */
+  color: #111; /* text color (adjust for contrast) */
+  font-family: 'Inter', sans-serif;
