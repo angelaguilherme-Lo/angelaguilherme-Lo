@@ -21,18 +21,3 @@
 ## Have a nice day!
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>My Portfolio</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <h1>Hello, I’m Jane Doe 👋</h1>
-    <p>Full-Stack Developer | Portfolio</p>
-    <a href="resume.pdf" class="button">Download Resume</a>
-  </header>
-</body>
-</html>
