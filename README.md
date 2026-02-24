@@ -8,16 +8,63 @@
 
 ## About Me
 
-**Beginner Dev & Brand Enthusiast** passionate about crafting real life products using digital tools. I'm on a journey to merge **beautiful design**, **strategic branding**, and **sustainability** with a entrepreneurship business venture that make an impact.
+**Aspiring Full-Stack Developer** passionate about crafting real life products using digital tools. 
 
-- 🎯 **Currently focusing on:** Personal brand development & archive master coding skills
+- 🎯 **Currently focusing on:** Personal brand development & archive high level coding skills
 - 🎨 **Design philosophy:** Form meets function with purpose-driven aesthetics
 - 💡 **Entrepreneurship mindset:** Building solutions that solve real problems
 - 💻 **Always learning:** Latest design trends, dev frameworks, and business strategies
 - ⚡ **Fun fact:** I believe every passion has a purpose and every brand has a story
 
+
+## Tech Stack
+
+- React
+- Node.js
+- Express
+- REST APIs
+- Git
+- GitHub
+- Linux/Ubuntu
+- VSCode
+- Figma
+- AI-Copilot
+- HTMl5
+- CSS
+- JAVASCRIPT
+- Typescript
+
 ---
 
-## Have a nice day!
+## Featured Projects
+
+## Velora-events/
+
+## Personal Portfolio
+
+## COOKIE CLICKER- Foundry · HTML · CSS · JS/ Cookie-Clicker–Game 
+
+## Ongoing Projects
+
+### Smart Task Manager
+Full-stack health & life management app with authentication and analytics dashboard.
+
+### Developer Navigation Tracker
+API-powered navigation correction system with live updates and smart filtering.
+
+### Kimanu Beauty Hair
+Modern professional business website with responsive design and SEO optimization.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced React Patterns
+- System Design Basics
+- Backend Architecture
+
+---
+
+## Have a great day!
 
 
