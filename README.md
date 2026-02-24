@@ -38,11 +38,11 @@
 
 ## Featured Projects
 
-## Velora-events/
+Velora-events/
 
-## Personal Portfolio
+Personal Portfolio
 
-## COOKIE CLICKER- Foundry · HTML · CSS · JS/ Cookie-Clicker–Game 
+COOKIE CLICKER- Foundry · HTML · CSS · JS/ Cookie-Clicker–Game 
 
 ## Ongoing Projects
 
@@ -52,7 +52,7 @@ Full-stack health & life management app with authentication and analytics dashbo
 ## Developer Navigation Tracker
 API-powered navigation correction system with live updates and smart filtering.
 
-### Kimanu Beauty Hair
+## Kimanu Beauty Hair
 Modern professional business website with responsive design and SEO optimization.
 
 ---
