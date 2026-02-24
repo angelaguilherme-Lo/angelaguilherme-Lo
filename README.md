@@ -46,10 +46,10 @@
 
 ## Ongoing Projects
 
-### Smart Task Manager
+## Smart Task Manager
 Full-stack health & life management app with authentication and analytics dashboard.
 
-### Developer Navigation Tracker
+## Developer Navigation Tracker
 API-powered navigation correction system with live updates and smart filtering.
 
 ### Kimanu Beauty Hair
