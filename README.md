@@ -8,13 +8,22 @@
 
 ## About Me
 
-**Aspiring Full-Stack Developer** passionate about crafting real life products using digital tools. 
+> I'm Angela Guilherme — a web developer, digital professional and entrepreneur focused on building practical digital products, websites and applications while connecting technology with business strategy, communication and real-world user needs.
 
-- 🎯 **Currently focusing on:** Personal brand development & archive high level coding skills
-- 🎨 **Design philosophy:** Form meets function with purpose-driven aesthetics
-- 💡 **Entrepreneurship mindset:** Building solutions that solve real problems
-- 💻 **Always learning:** Latest design trends, dev frameworks, and business strategies
-- ⚡ **Fun fact:** I believe every passion has a purpose and every brand has a story
+
+**Currently building · learning · creating**
+
+**WEB DEVELOPMENT**
+
+**AI**
+
+**DIGITAL PRODUCTS**
+
+**BUSINESS STRATEGY**
+
+**PROJECT PLANNING**
+
+**CONTENT**
 
 
 ## Tech Stack
@@ -23,12 +32,12 @@
 - Node.js
 - Express
 - REST APIs
-- Git
+- Next.js
 - GitHub
-- Linux/Ubuntu
-- VSCode
+- Vercel
+- PostgreSQL
 - Figma
-- AI-Copilot
+- AI Models (Claude,ChatGPT,Gemini,Grok, Sonar)
 - HTMl5
 - CSS
 - JAVASCRIPT
@@ -57,10 +66,9 @@ Modern professional business website with responsive design and SEO optimization
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced React Patterns
-- System Design Basics
 - Backend Architecture
 
 ---
