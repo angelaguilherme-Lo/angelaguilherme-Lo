@@ -73,6 +73,6 @@ Modern professional business website with responsive design and SEO optimization
 
 ---
 
-# Let's Connect. Have a great day!
+## Let's Connect. Have a great day!
 
 
