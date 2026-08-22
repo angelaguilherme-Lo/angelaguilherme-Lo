@@ -53,7 +53,7 @@ Personal Portfolio
 
 COOKIE CLICKER- Foundry · HTML · CSS · JS/ Cookie-Clicker–Game 
 
-Ongoing Projects
+**Ongoing Projects**
 
 Smart Task Manager
 Full-stack health & life management app with authentication and analytics dashboard.
@@ -66,13 +66,13 @@ Modern professional business website with responsive design and SEO optimization
 
 ---
 
-Currently Learning
+**Currently Learning**
 
 - Advanced React Patterns
 - Backend Architecture
 
 ---
 
-Let's Connect. Have a great day!
+**Let's Connect. Have a great day!**
 
 
