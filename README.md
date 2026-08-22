@@ -13,17 +13,17 @@
 
 **Currently building · learning · creating**
 
-**WEB DEVELOPMENT**
+*WEB DEVELOPMENT*
 
-**AI**
+*AI*
 
-**DIGITAL PRODUCTS**
+*DIGITAL PRODUCTS*
 
-**BUSINESS STRATEGY**
+*BUSINESS STRATEGY*
 
-**PROJECT PLANNING**
+*PROJECT PLANNING*
 
-**CONTENT**
+*CONTENT*
 
 
 ## Tech Stack
@@ -55,13 +55,13 @@ COOKIE CLICKER- Foundry · HTML · CSS · JS/ Cookie-Clicker–Game
 
 ## Ongoing Projects
 
-## Smart Task Manager
+Smart Task Manager
 Full-stack health & life management app with authentication and analytics dashboard.
 
-## Developer Navigation Tracker
+Developer Navigation Tracker
 API-powered navigation correction system with live updates and smart filtering.
 
-## Kimanu Beauty Hair
+Kimanu Beauty Hair
 Modern professional business website with responsive design and SEO optimization.
 
 ---
@@ -72,6 +72,8 @@ Modern professional business website with responsive design and SEO optimization
 - Backend Architecture
 
 ---
+
+## Let's Connect:
 
 ## Have a great day!
 
