@@ -13,9 +13,8 @@
 
 **Building · Learning · Creating**
 
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background-color: #f7f9fa; padding: 30px; border-radius: 16px; border: 1px solid #e1e4e6; max-width: 800px; margin: 0 auto;">
-  
 
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background-color: #f7f9fa; padding: 30px; border-radius: 16px; border: 1px solid #e1e4e6; max-width: 800px; margin: 0 auto;">
 
   <!-- Middle Shelf: Strategic Content Boxes -->
   <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 16px;">
