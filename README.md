@@ -28,20 +28,9 @@
 
 ## Tech Stack
 
-- React
-- Node.js
-- Express
-- REST APIs
-- Next.js
-- GitHub
-- Vercel
-- PostgreSQL
-- Figma
-- AI Models (Claude,ChatGPT,Gemini,Grok, Sonar)
-- HTMl5
-- CSS
-- JAVASCRIPT
-- Typescript
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,github,vercel,postgresql,figma,html,css,javascript,typescript" />
+</p>
 
 ---
 
