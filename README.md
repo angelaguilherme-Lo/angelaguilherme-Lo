@@ -11,6 +11,8 @@
 > I'm Angela Guilherme — a web developer, digital professional and entrepreneur focused on building practical digital products, websites and applications while connecting technology with business strategy, communication and real-world user needs.
 
 
+
+
 **Building · Learning · Creating**
 
 
