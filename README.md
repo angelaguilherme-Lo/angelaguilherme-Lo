@@ -16,22 +16,18 @@
 
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background-color: #f7f9fa; padding: 30px; border-radius: 16px; border: 1px solid #e1e4e6; max-width: 800px; margin: 0 auto;">
 
-  <!-- Middle Shelf: Strategic Content Boxes -->
   <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 16px;">
     
-    <!-- AI Box -->
     <div style="background-color: #ffffff; border: 1px solid #e1e4e6; border-radius: 12px; padding: 20px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.02); display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 110px;">
       <div style="font-size: 20px; margin-bottom: 8px;">✦</div>
       <div style="font-size: 11px; font-weight: 700; letter-spacing: 1.5px; color: #1a1a1a;">AI</div>
     </div>
 
-    <!-- Web Development Box -->
     <div style="background-color: #ffffff; border: 1px solid #e1e4e6; border-radius: 12px; padding: 20px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.02); display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 110px;">
       <div style="font-size: 20px; margin-bottom: 8px;">⎋</div>
       <div style="font-size: 11px; font-weight: 700; letter-spacing: 1.5px; color: #1a1a1a;">WEB DEVELOPMENT</div>
     </div>
 
-    <!-- Digital Box -->
     <div style="background-color: #ffffff; border: 1px solid #e1e4e6; border-radius: 12px; padding: 20px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.02); display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 110px;">
       <div style="font-size: 20px; margin-bottom: 8px;">◈</div>
       <div style="font-size: 11px; font-weight: 700; letter-spacing: 1.5px; color: #1a1a1a;">DIGITAL</div>
@@ -39,25 +35,20 @@
 
   </div>
 
-  <!-- Bottom Shelf: Core Business & Execution Boxes -->
   <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px;">
     
-    <!-- Products Box -->
     <div style="background-color: #ffffff; border: 1px solid #e1e4e6; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.02); display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 90px;">
       <div style="font-size: 10px; font-weight: 700; letter-spacing: 1px; color: #4a5568;">PRODUCTS</div>
     </div>
 
-    <!-- Business Strategy Box -->
     <div style="background-color: #f0f3f5; border: 1px solid #e1e4e6; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.02); display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 90px;">
       <div style="font-size: 10px; font-weight: 700; letter-spacing: 1px; color: #4a5568;">BUSINESS STRATEGY</div>
     </div>
 
-    <!-- Project Planning Box -->
     <div style="background-color: #ffffff; border: 1px solid #e1e4e6; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.02); display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 90px;">
       <div style="font-size: 10px; font-weight: 700; letter-spacing: 1px; color: #4a5568;">PROJECT PLANNING</div>
     </div>
 
-    <!-- Content Creation Box -->
     <div style="background-color: #ffffff; border: 1px solid #e1e4e6; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.02); display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 90px;">
       <div style="font-size: 10px; font-weight: 700; letter-spacing: 1px; color: #4a5568;">CONTENT CREATION</div>
     </div>
