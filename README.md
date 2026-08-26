@@ -29,29 +29,41 @@
 
 ---
 
-## Featured Projects
+## Featured repositories Projects
 
-*Sweater-Weather 
-Online store that sells Premium sweatshirts, tunic and knitwear for women- demo project*
+1- *Aura-drinks
+Next.js/ Express*
 
-*Render-todo-app- 
+
+2- *Sweater-Weather 
+Online store that sells Premium sweatshirts, tunic and knitwear for women- demo project
+React Vite*
+
+
+3- *Render-todo-app- 
 TypeScript*
 
-*Vaulty - premium private workspace for passwords, notes, reminders and documents 
+
+4- *Vaulty - premium private workspace for passwords, notes, reminders and documents 
 TypeScript*
 
-*Personal-finance-guide- 
+
+5- *Personal-finance-guide- 
 React Personal Finance Guide app*
 
-*My Library - with books I've read and the books I want to read.
+
+6- *My Library - with books I've read and the books I want to read.
 JavaScript*
 
-*Velora-events Public
+
+7- *Velora-events Public
 Events management company
 CSS* 
 
-*COOKIE CLICKER- Foundry · HTML · CSS · JS/ Cookie-Clicker–Game*
 
+8- *COOKIE CLICKER- Foundry · HTML · CSS · JS/ Cookie-Clicker–Game*
+
+---
 
 **Ongoing Projects**
 
@@ -63,6 +75,7 @@ API-powered navigation correction system with live updates and smart filtering.
 
 Kimanu Beauty Hair
 Modern professional business website with responsive design and SEO optimization.
+
 
 ---
 
