@@ -29,11 +29,26 @@
 
 ## Featured Projects
 
-Velora-events/
+*Sweater-Weather 
+Online store that sells Premium sweatshirts, tunic and knitwear for women- demo project
 
-Personal Portfolio
+*Render-todo-app- 
+TypeScript
 
-COOKIE CLICKER- Foundry · HTML · CSS · JS/ Cookie-Clicker–Game 
+*Vaulty - premium private workspace for passwords, notes, reminders and documents 
+TypeScript 
+
+*Personal-finance-guide- 
+React Personal Finance Guide app
+
+*My Library - with books I've read and the books I want to read.
+JavaScript 
+
+*Velora-events Public
+Events management company
+CSS 
+
+*COOKIE CLICKER- Foundry · HTML · CSS · JS/ Cookie-Clicker–Game 
 
 **Ongoing Projects**
 
@@ -48,10 +63,6 @@ Modern professional business website with responsive design and SEO optimization
 
 ---
 
-**Currently Learning**
-
-- Advanced React Patterns
-- Backend Architecture
 
 ---
 
