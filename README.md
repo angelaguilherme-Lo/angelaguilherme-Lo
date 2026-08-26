@@ -25,30 +25,33 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,github,vercel,postgresql,figma,html,css,javascript,typescript" />
 </p>
 
+
+
 ---
 
 ## Featured Projects
 
 *Sweater-Weather 
-Online store that sells Premium sweatshirts, tunic and knitwear for women- demo project
+Online store that sells Premium sweatshirts, tunic and knitwear for women- demo project*
 
 *Render-todo-app- 
-TypeScript
+TypeScript*
 
 *Vaulty - premium private workspace for passwords, notes, reminders and documents 
-TypeScript 
+TypeScript*
 
 *Personal-finance-guide- 
-React Personal Finance Guide app
+React Personal Finance Guide app*
 
 *My Library - with books I've read and the books I want to read.
-JavaScript 
+JavaScript*
 
 *Velora-events Public
 Events management company
-CSS 
+CSS* 
 
-*COOKIE CLICKER- Foundry · HTML · CSS · JS/ Cookie-Clicker–Game 
+*COOKIE CLICKER- Foundry · HTML · CSS · JS/ Cookie-Clicker–Game*
+
 
 **Ongoing Projects**
 
@@ -60,9 +63,6 @@ API-powered navigation correction system with live updates and smart filtering.
 
 Kimanu Beauty Hair
 Modern professional business website with responsive design and SEO optimization.
-
----
-
 
 ---
 
