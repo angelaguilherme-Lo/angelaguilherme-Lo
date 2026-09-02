@@ -32,15 +32,17 @@
 ## Featured repositories Projects
 
 1- *Aura-drinks
-Next.js/ Express*
+Demo project- https://aura-premium-app.vercel.app
+Tech stack: Next.js/ Express*
 
 
 2- *Sweater-Weather 
-Online store that sells Premium sweatshirts, tunic and knitwear for women- demo project
-React Vite*
+Online store that sells Premium sweatshirts, tunic and knitwear for women
+Demo project- https://sweater-weather-woad.vercel.app
+Tech stack: React Vite*
 
 
-3- *Render-todo-app- 
+3- *Render-todo-app 
 TypeScript*
 
 
@@ -48,7 +50,7 @@ TypeScript*
 TypeScript*
 
 
-5- *Personal-finance-guide- 
+5- *Personal-finance-guide 
 React Personal Finance Guide app*
 
 
