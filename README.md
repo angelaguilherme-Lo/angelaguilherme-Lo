@@ -31,55 +31,58 @@
 
 ## Featured some repositories Projects
 
-1- *Aura-drinks
+Aura-drinks
 
 Demo project- https://aura-premium-app.vercel.app
 
-Tech stack: Next.js/ Express*
+Tech stack: Next.js/ Express
 
 
-2- *Sweater-Weather 
+Sweater-Weather 
 Online store that sells Premium sweatshirts, tunic and knitwear for women
 
 Demo project- https://sweater-weather-woad.vercel.app
 
-Tech stack: React Vite*
+Tech stack: React Vite
 
 
-3- *BrandBlender–BrandTone- Curated colour and typography systems for brands 
+BrandBlender–BrandTone- Curated colour and typography systems for brands 
 
-Tech stack: Typescript, CSS, JavaScript- build with ChatGPT Codex*
+Tech stack: Typescript, CSS, JavaScript- build with ChatGPT Codex
 
 Demo Project: https://brandblender-brandtone.vercel.app
 
 
-4- *Render-todo-app 
+Render-todo-app 
 
-TypeScript*
-
-
-5- *Vaulty - premium private workspace for passwords, notes, reminders and documents 
-
-TypeScript*
+Tech stack: TypeScript
 
 
-6- *Personal-finance-guide 
+Vaulty - premium private workspace for passwords, notes, reminders and documents 
 
-React- Personal Finance Guide app*
-
-
-7- *My Library - with books I've read and the books I want to read.
-
-JavaScript*
+Tech stack: TypeScript
 
 
-8- *Velora-events Public
+Personal-finance-guide 
+
+Tech stack: React
+
+
+My Library - with books I've read and the books I want to read.
+
+Tech stack: JavaScript
+
+
+Velora-events Public
 
 Events management company
-CSS* 
+
+Tech stack: HTML CSS JavaScript
 
 
-9- *COOKIE CLICKER- Foundry · HTML · CSS · JS/ Cookie-Clicker–Game*
+COOKIE CLICKER- Foundry · Cookie-Clicker–Game
+
+Tech stack: HTML · CSS · JavaScript
 
 ---
 
